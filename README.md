@@ -124,7 +124,7 @@ flutter run -d windows -v
 安卓的动态库，会自动添加lib头，我们改造一下 *libs/native_add/CMakeLists.txt* 让他兼容windows和 android
 
 ```makefile
-cmake_minimum_required(VERSION 3.4)
+cmake_minimum_required(VERSION 3.10)
 
 # 项目名称
 if (${CMAKE_SYSTEM_NAME} EQUAL "Windows") 

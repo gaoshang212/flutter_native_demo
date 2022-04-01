@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.4)
+cmake_minimum_required(VERSION 3.10)
 
 # 项目名称
 if (${CMAKE_SYSTEM_NAME} EQUAL "Windows") 

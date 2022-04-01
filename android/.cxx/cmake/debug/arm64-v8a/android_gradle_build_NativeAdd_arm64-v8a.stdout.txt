@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\workspace\flutters\flutter_native_demo\android\.cxx\cmake\debug\arm64-v8a'
+[1/1] Linking CXX shared library C:\workspace\flutters\flutter_native_demo\example\build\flutter_native_demo\intermediates\cmake\debug\obj\arm64-v8a\libNativeAdd.so

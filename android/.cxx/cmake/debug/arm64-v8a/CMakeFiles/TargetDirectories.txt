@@ -1,0 +1,3 @@
+C:/workspace/flutters/flutter_native_demo/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/NativeAdd.dir
+C:/workspace/flutters/flutter_native_demo/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/workspace/flutters/flutter_native_demo/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -9,6 +9,7 @@ A native flutter plugin project demo.
 
 官方的例子：[https://docs.flutter.dev/development/platform-integration/c-interop](https://docs.flutter.dev/development/platform-integration/c-interop)
 
+源码地址：[https://github.com/gaoshang212/flutter_native_demo](https://github.com/gaoshang212/flutter_native_demo)
 ### 创建一个插件
 
 可以执行下面的命令来创建一个插件

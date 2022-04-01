@@ -1,8 +1,0 @@
-# ninja log v5
-1	599	670497540	CMakeFiles/libNativeAdd.dir/native_add.cpp.o	4f3c6b110f99195b
-600	1306	670497541	C:/workspace/flutters/flutter_native_demo/example/build/flutter_native_demo/intermediates/cmake/debug/obj/x86_64/liblibNativeAdd.so	5982f773c5f9c98e
-0	163	670498783	CMakeFiles/NativeAdd.dir/native_add.cpp.o	c3500a3b98f1fbfd
-164	701	670498783	C:/workspace/flutters/flutter_native_demo/example/build/flutter_native_demo/intermediates/cmake/debug/obj/x86_64/libNativeAdd.so	be53ccabbbe8f705
-0	170	670500028	CMakeFiles/LANGUAGES.dir/native_add.cpp.o	f1109b4d58c5d54a
-171	691	670500029	C:/workspace/flutters/flutter_native_demo/example/build/flutter_native_demo/intermediates/cmake/debug/obj/x86_64/libLANGUAGES.so	6c960543495d3151
-1	437	670500474	C:/workspace/flutters/flutter_native_demo/example/build/flutter_native_demo/intermediates/cmake/debug/obj/x86_64/libNativeAdd.so	be53ccabbbe8f705

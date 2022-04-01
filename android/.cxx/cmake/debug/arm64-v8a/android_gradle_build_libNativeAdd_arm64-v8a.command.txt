@@ -1,7 +1,0 @@
-Executable : C:\Users\gaosh\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
-arguments : 
--C
-C:\workspace\flutters\flutter_native_demo\android\.cxx\cmake\debug\arm64-v8a
-libNativeAdd
-jvmArgs : 
-

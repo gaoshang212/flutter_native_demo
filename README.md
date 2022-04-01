@@ -198,7 +198,7 @@ IOS 和 macOS 的配置基本是一样的，注意一下目录就好了。
 
 ### 执行效果
 
-![ios](./resources/images/ios.png?raw=true)
+![ios](./resources/images/ios.png?raw=true|width=245px)
 
-![macos](./resources/images/macos.png?raw=true)
+![macos](./resources/images/macos.png?raw=true|width=540px)
 

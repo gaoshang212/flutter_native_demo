@@ -152,11 +152,8 @@ ENDIF()
 
 在 android/build.gradle 文件中添加 CMakeList.txt 路径
 
-```json
+```
 android {
-
-  ...
-
 	externalNativeBuild {
         // Encapsulates your CMake build configurations.
         cmake {
